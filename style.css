@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.text-color{
+    background-color: black;
+    padding: 30px 160px;
+    border-radius: 8px;
+
+}
+
+.text-color p{
+    color: white;
+    font-size: 40px;
+}
+
+.button-color button{
+    padding: 10px 20px;
+    border-radius: 7px;
+    cursor: pointer;
+}
