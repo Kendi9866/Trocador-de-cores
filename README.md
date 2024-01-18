@@ -1,6 +1,6 @@
 # Troca de Cor Aleatória
 
-Este é um projeto simples que consiste em um site que gera uma cor aleatória e troca o fundo ao clicar em um botão. A cor atual de fundo é exibida ao lado do botão.
+Este é um projeto simples que consiste em um site que gera uma cor aleatória e troca o fundo ao clicar em um botão. A cor atual de fundo é exibida acima do botão.
 
 ## Como Usar
 
